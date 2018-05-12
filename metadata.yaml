@@ -1,0 +1,32 @@
+_repo: Prisoners-Their-Own-WardersSettlements-Established-1825_26974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bayliss, W. D.
+    gutenberg_agent_id: '32378'
+    url: http://www.gutenberg.org/2009/agents/32378
+  - agent_name: McNair, John Frederick Adolphus
+    alias: McNair, J. F. A. (John Frederick Adolphus)
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '32377'
+    url: http://www.gutenberg.org/2009/agents/32377
+description: ''
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Prisons -- Straits Settlements'
+- !lcsh 'Singapore Prison'
+title: "Prisoners Their Own Warders\r\nA Record of the Convict Prison at Singapore\
+  \ in the Straits Settlements Established 1825"
+url: http://www.gutenberg.org/ebooks/26974
